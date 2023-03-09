@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api node y expres",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabriel sosa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "api con node y express"
+  }
+}
